@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modifications",
+  "cSpell.words": [
+    "esbuild",
+    "fullhuman",
+    "outdir",
+    "purgecss"
+  ]
+}
